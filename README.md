@@ -3,7 +3,7 @@
 Scrape Reddit images from the Terminal
 
 ![craiyon_204652_a_spooky_ghost_logo_inspired_by_Reddit_s_mascot crop](https://github.com/berwiecom/fork--redyt.sh.tmp/assets/34105153/37e15371-a3ac-4408-8396-8f82d2639b1f)
-<sup>made w/ craiyon.com/<sub>
+<sup>made w/ craiyon.com<sub>
 
 This shell script will automatically create the following folder:
 
