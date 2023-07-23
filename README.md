@@ -1,9 +1,8 @@
 # redyt
 
-Scrape Reddit images from the Terminal
+Scrape Reddit images from the terminal
 
-![craiyon_204652_a_spooky_ghost_logo_inspired_by_Reddit_s_mascot crop](https://github.com/berwiecom/fork--redyt.sh.tmp/assets/34105153/37e15371-a3ac-4408-8396-8f82d2639b1f)
-<sup>made w/ craiyon.com<sub>
+![craiyon_3](https://github.com/berwiecom/fork--redyt.sh.tmp/assets/34105153/281307a2-6462-4f6b-ba06-46b753ce5649) <sup>made w/ craiyon.com<sub>
 
 This shell script will automatically create the following folder:
 
